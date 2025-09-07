@@ -1,7 +1,7 @@
 # Bài 1
 Ta có **N** cột đá hình hộp chữ nhật liên tiếp và sát nhau có độ cao lần lượt là `h₁, h₂, ..., hₙ`.  
 
-Ta thấy rằng các cột đá có thể chứa được nước. Giả sử `N = 7`, với các độ cao `hᵢ` lần lượt là: 2 5 1 3 4 3 6 thì ta chứa được lượng nước bằng **9** 
+Ta thấy rằng các cột đá có thể tạo thành vùng trũng chứa được nước. Giả sử `N = 7`, với các độ cao `hᵢ` lần lượt là: 2 5 1 3 4 3 6 thì ta chứa được lượng nước bằng **9** 
 
 ---
 
